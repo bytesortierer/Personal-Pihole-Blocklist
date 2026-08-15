@@ -1,6 +1,6 @@
 ! Title: bytesortierer - whitelist.txt
 ! Description: My Whitelist
-! Last Modified: 22-03-2022
+! Last Modified: 15-08-2026
 
 #tkr
 @@||xn--allestrungen-9ib.de^
