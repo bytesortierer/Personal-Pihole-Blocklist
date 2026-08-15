@@ -1,1 +1,1 @@
-Private Whithe List for my AGH and/ or Pi-Hole. Use at your own risk.
+Blocklist for my private AGH and Pi-Hole. Use at your own risk.
