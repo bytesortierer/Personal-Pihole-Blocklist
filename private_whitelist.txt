@@ -1,8 +1,8 @@
 ! Title: bytesortierer - whitelist.txt
 ! Description: My Whitelist
-! Last Modified: 15-08-2026
+! Last Modified: 23-11-2026
 
-#tkr
+! ===== tkr =====
 @@||xn--allestrungen-9ib.de^
 @@||xn--brckentage-beb.info^
 @@||otto.de^
@@ -11,8 +11,7 @@
 @@||meinprospekt.de^
 @@||adlermode.com^
 
-#mkr
+! ===== mkr =====
 @@||api.hidrive.ionos.com^
 @@||hidrive.ionos.com^
-@b||p.typekit.net^
-
+@@||p.typekit.net^
